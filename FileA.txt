@@ -1,0 +1,3 @@
+fThis is FileA
+File B
+nieuw
