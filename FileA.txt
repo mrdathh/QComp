@@ -1,3 +1,4 @@
 fThis is FileA
 File B
 nieuw
+this is a change to the file
