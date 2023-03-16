@@ -2,3 +2,4 @@ test
 let's make a change 
 this is for squash merge
 Squash merge
+Squash merge
